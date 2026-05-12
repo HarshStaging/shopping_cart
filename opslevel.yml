@@ -5,6 +5,7 @@ component:
   owner: Harsh-onboarding-team
   aliases: 
   - shoppingcart
+  - cart
   lifecycle: production
   tier: tier_2
   language: JavaScript
