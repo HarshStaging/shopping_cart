@@ -3,7 +3,8 @@ component:
   name: shoppingcart
   type: service
   owner: Harsh-onboarding-team
-  alias: shoppingcart
+  aliases: 
+  - shoppingcart
   lifecycle: production
   tier: tier_2
   language: JavaScript
