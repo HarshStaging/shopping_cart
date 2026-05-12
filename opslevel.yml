@@ -1,0 +1,9 @@
+version: 1
+component:
+  name: shopping-cart
+  type: service
+  owner: your-team-alias
+  lifecycle: production
+  tier: tier_2
+  language: JavaScript
+  description: The main code base for the Shopping Cart service.
