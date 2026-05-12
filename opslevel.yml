@@ -2,7 +2,8 @@ version: 1
 component:
   name: shopping-cart
   type: service
-  owner: your-team-alias
+  owner: Harsh-onboarding-team
+  alias: shopping_cart
   lifecycle: production
   tier: tier_2
   language: JavaScript
