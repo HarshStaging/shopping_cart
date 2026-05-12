@@ -1,0 +1,29 @@
+---
+version: 1
+component:
+  name: shoppingcart
+  type: service
+  lifecycle:
+  tier: tier_2
+  product:
+  owner: harsh-onboarding-team
+  system:
+  language: JavaScript
+  framework:
+  description: The main code base for the Shopping Cart service.
+  aliases:
+  - shoppingcart
+  - shopping
+  tags:
+  repositories:
+  - name: HarshStaging/shopping_cart
+    path: "/"
+    provider: github
+  tools:
+  dependencies:
+  alert_sources:
+  properties:
+    customer_facing:
+    onboarding_notes:
+    production_check:
+    url:
