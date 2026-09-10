@@ -19,6 +19,8 @@ component:
   - name: HarshStaging/shopping_cart
     path: "/"
     provider: github
+  - name: srsacquiom/marketstandard-fe
+    provider: bitbucket
   tools:
   dependencies:
   alert_sources:
