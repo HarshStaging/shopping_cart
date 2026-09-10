@@ -19,9 +19,6 @@ component:
   - name: HarshStaging/shopping_cart
     path: "/"
     provider: github
-  - name: HarshStaging/catalogservice
-    path: "/"
-    provider: github
   tools:
   dependencies:
   alert_sources:
