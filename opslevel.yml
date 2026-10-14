@@ -14,7 +14,7 @@ component:
   aliases:
   - shoppingcart
   - shopping
-  # tags:
+  tags:
   # - key: env
   #   value: staging
   # - key: cost-center
