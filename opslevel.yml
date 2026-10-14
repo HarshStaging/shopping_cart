@@ -15,6 +15,10 @@ component:
   - shoppingcart
   - shopping
   tags:
+  - key: env
+    value: staging
+  - key: cost-center
+    value: eng
   repositories:
   - name: HarshStaging/shopping_cart
     path: "/"
