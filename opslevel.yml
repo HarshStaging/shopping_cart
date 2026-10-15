@@ -1,7 +1,7 @@
 ---
 version: 1
 component:
-  name: shoppingcart
+  name: shopping-cart
   type: service
   lifecycle:
   tier: tier_2
