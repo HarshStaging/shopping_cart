@@ -18,7 +18,7 @@ component:
   - key: env
     value: staging
   - key: cost-center
-  value: eng
+    value: eng
   repositories:
   - name: HarshStaging/shopping_cart
     path: "/"
